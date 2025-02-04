@@ -20,7 +20,7 @@ When substituting the values:
 ### 3️⃣ How many rows are there for the Yellow Taxi data for all CSV files in the year 2020?
 
 ✅ **Answer:** `24,648,499`
-![number of rows in bigquery](images/2020_yellow.png)
+![number of rows in bigquery](images/2020_yellow_.png)
 
 
 ---
@@ -28,14 +28,14 @@ When substituting the values:
 ### 4️⃣ How many rows are there for the Green Taxi data for all CSV files in the year 2020?
 ✅ **Answer:** `1,734,051`
 
-![number of rows in bigquery](images/2020_green.png)
+![number of rows in bigquery](images/2020_green_.png)
 
 ---
 
 ### 5️⃣ How many rows are there for the Yellow Taxi data for the March 2021 CSV file?
 ✅ **Answer:** `1,925,152`
 
-![number of rows in bigquery](images/03_2021_yellow.png)
+![number of rows in bigquery](images/03_2021_yellow_.png)
 
 ---
 
