@@ -17,6 +17,8 @@ The template follows the pattern:
 When substituting the values:  
 `green_tripdata_2020-04.csv`
 
+---
+
 ### 3️⃣ How many rows are there for the Yellow Taxi data for all CSV files in the year 2020?
 
 ✅ **Answer:** `24,648,499`
