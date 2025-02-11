@@ -77,7 +77,7 @@ SELECT * FROM `terraform-demo-448.yellow_trip_2024.external_yellow_tripdata`
 
 ### question 1
 
-![number of rows in bigquery](images/image1)
+![number of rows in bigquery](images/image1.png)
 
 ### question 2
 
